@@ -16,7 +16,7 @@ This repository contains the 3D design of a mechanical bracket created using [On
 
 ## 📸 Screenshot
 
-![Design Preview](path/to/screenshot.jpg) <!-- Replace with actual path or GitHub-hosted image -->
+![Design Preview](screenshot.jpg) <!-- Replace with actual path or GitHub-hosted image -->
 
 ## 🛠️ Tools Used
 
@@ -38,10 +38,4 @@ If you want to view or edit the model:
 2. Ask the owner to share the document link with edit/view permissions.
 3. Open the document in your browser and start exploring or modifying.
 
-## 📬 Contact
 
-For questions or collaboration, feel free to open an issue or reach out directly.
-
----
-
-> ⚙️ Made with ❤️ using Onshape.
