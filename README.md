@@ -1,4 +1,4 @@
-# Mechanical Bracket - CAD Design (Onshape)
+<img width="950" height="667" alt="لقطة شاشة 2025-07-19 203120" src="https://github.com/user-attachments/assets/792b167e-ffb4-4134-b223-e0eb76a2cc43" /># Mechanical Bracket - CAD Design (Onshape)
 
 This repository contains the 3D design of a mechanical bracket created using [Onshape](https://www.onshape.com/), a cloud-based CAD software. The design is likely intended for use in robotics or mechanical assemblies.
 
@@ -15,8 +15,7 @@ This repository contains the 3D design of a mechanical bracket created using [On
 - Lightweight geometry optimized for prototyping.
 
 ## 📸 Screenshot
-
-![Design Preview](screenshot.jpg) <!-- Replace with actual path or GitHub-hosted image -->
+<img width="950" height="667" alt="لقطة شاشة 2025-07-19 203120" src="https://github.com/user-attachments/assets/5d93335c-d85a-49cc-895f-b1368aca92f6" />
 
 ## 🛠️ Tools Used
 
